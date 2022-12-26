@@ -7,7 +7,7 @@ Language: Python 3.10.8
 Visual Studio Code version 1.71.2
 OS: Windows or Linux.
 
-The cheatsheet created in the IAC module Report 3 for Git andf GitHub was found to be useful for this assignment, and is included in the rep as GIT Cheatsheet.xlsx
+The cheatsheet created in the IAC module Report 3 for Git andf GitHub was found to be useful for this assignment, and is included in the repo as GIT Cheatsheet.xlsx
 
 The code was stored locally on the student’s OneDrive C:\Users\leooc\OneDrive - Atlantic TU\IAC Assignment 2\Python and then pushed up to this GitHub repo.
 
