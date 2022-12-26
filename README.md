@@ -22,7 +22,9 @@ A .gitignore file was created on GitHub to exclude complied Pythion (.pyc extens
 Because the repo was originally uploaded to GitHub without a gitignore file, the file had to be applied by using these commands:
 
 git rm -r --cached . 
+
 git add . 
+
 git commit -m "Apply new gitignore file"
 
 This deleted files such as those stored in the --pycache-- system folders. Once this was done locally, a git push was run to sync the Github repo.
