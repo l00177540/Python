@@ -1,3 +1,5 @@
+![img.png](python.jpg)
+
 # Python Exercises - IAC Weeks 2 - 5 #
 
 This repository contains the Python Walkthrough code examples and exercises for Weeks 2 to 5 of the Module Infrastructure as Code (IAC) completed as part of the PG Dip in Cloud Computing Semester Block 1 2022.
