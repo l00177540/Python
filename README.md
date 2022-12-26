@@ -5,8 +5,11 @@ This repository contains the Python Walkthrough code examples and exercises for 
 ## Software Used
 
 The following versions of software were used:
+
 Language: Python 3.10.8
+
 Visual Studio Code version 1.71.2
+
 OS: Windows or Linux.
 
 ## Repo Description
