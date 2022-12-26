@@ -19,11 +19,9 @@ The code was stored locally on the student’s OneDrive C:\Users\leooc\OneDrive 
 A .gitignore file was created on GitHub to exclude complied Pythion (.pyc extension) files. This new file was then pulled to the local repo using git pull.
 Because the repo was originally uploaded to GitHub without a gitignore file, the file had to be applied by using these commands:
 
-git rm -r --cached . 
-
-git add . 
-
-git commit -m "Apply new gitignore file"
+git rm -r --cached .   
+git add .   
+git commit -m "Apply new gitignore file"  
 
 This deleted files such as those stored in the --pycache-- system folders. Once this was done locally, a git push was run to sync the Github repo.
 
