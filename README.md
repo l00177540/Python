@@ -2,12 +2,12 @@
 
 This repository contains the Python Walkthrough code examples and exercises for Weeks 2 to 5 of the Module Infrastructure as Code (IAC) completed as part of the PG Dip in Cloud Computing Semester Block 1 2022.
 
-The following versions of 
+The following versions of software were used:
 Language: Python 3.10.8
 Visual Studio Code version 1.71.2
 OS: Windows or Linux.
 
-The use of the cheatsheet
+The cheatsheet created in the IAC module Report 3 for Git andf GitHub was found to be useful for this assignment, and is included in the rep as GIT Cheatsheet.xlsx
 
 The code was stored locally on the student’s OneDrive C:\Users\leooc\OneDrive - Atlantic TU\IAC Assignment 2\Python and then pushed up to this GitHub repo.
 
