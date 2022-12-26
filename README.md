@@ -12,7 +12,9 @@ Language: Python 3.10.8
 Visual Studio Code version 1.71.2  
 OS: Windows or Linux.  
 
-## Repo Description
+## Repo Description   
+
+The code in the Exercise_1 to Exercise_12 folders are presented to illustrate the work done in this module to gain a familiarity of Python which was the primary focus of Report 1 and 2 and also subsequently in Assignment 1 of the IAC module.   
 
 The cheatsheet created in the IAC module Report 3 for Git and GitHub was found to be useful for this assignment, and is also included in the repo as GIT Cheatsheet.xlsx
 
