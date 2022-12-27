@@ -1,3 +1,5 @@
+# Exercise for Walkthrough 7
+
 def diesel_generator_calculator():
 
  while True:
