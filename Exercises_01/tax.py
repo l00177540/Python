@@ -1,3 +1,5 @@
+# Simple tax calc  Example
+
 income = 123456
 single_person_tax_alowance = 36000
 taxable_at_20_percent = income-single_person_tax_alowance

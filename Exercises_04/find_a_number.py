@@ -1,3 +1,5 @@
+# Example to show use of lists to evaluate for a number
+
 my_list = [1,2,3,0]
 for my_number in my_list:
  if my_number == 1:

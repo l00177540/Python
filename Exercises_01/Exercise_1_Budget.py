@@ -1,3 +1,5 @@
+# Simple Budget program Example
+
 income = 500
 coffee = 2.5 * 5 *4
 diesel = 50 *4

@@ -1,3 +1,5 @@
+# Tax calc program with comments
+
 income = 123456
 single_person_tax_alowance = 36000
 # Tax_allowance as it was pre Budget 2023

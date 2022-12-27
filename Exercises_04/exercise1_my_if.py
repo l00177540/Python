@@ -1,3 +1,5 @@
+# Exercise to illustrate Boolean Logic
+
 a = False
 b = False
 c = False
