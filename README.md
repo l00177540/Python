@@ -27,7 +27,9 @@ Because the repo was originally uploaded to GitHub without a gitignore file, the
 *git add .*       
 *git commit -m "Apply new gitignore file"*             
 
-This deleted files such as those stored in the --pycache-- system folders. Once this was done locally, a git push was run to sync the Github repo.
+This deleted files such as those stored in the --pycache-- system folders. Once this was done locally, a git push was run to sync the Github repo.    
+
+This repo also contains an exercise from Git Walkthrough 3 called GitHub Walkthrough 2 Exercise.bat. This is the .bat version of the Linus Shell script provided in those notes.   
 
 ## Branching
 
