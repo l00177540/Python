@@ -1,3 +1,5 @@
+# Example to illustrate unknown number of arguments
+
 def auto_adder(*my_numbers):
  final_number = 0
  for number in my_numbers:
